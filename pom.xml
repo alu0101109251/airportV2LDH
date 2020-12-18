@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <sonar.projectKey>alu0101109251_airportLDH</sonar.projectKey>
+        <sonar.projectKey>alu0101109251_airportV2LDH</sonar.projectKey>
         <sonar.organization>alu0101109251</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.java.binaries>target/classes</sonar.java.binaries>

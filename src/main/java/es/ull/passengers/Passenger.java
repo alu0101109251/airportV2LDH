@@ -25,6 +25,10 @@ import es.ull.flights.Flight;
 import java.util.Arrays;
 import java.util.Locale;
 
+/**
+ * @class Passenger
+ * @brief Represents a Passenger
+ */
 public class Passenger {
 
     private final String identifier;

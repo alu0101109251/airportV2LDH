@@ -1,0 +1,36 @@
+# Virtual Machine Configuration
+os: linux
+dist: xenial
+
+# Project JDK
+language: java
+jdk:
+  - openjdk11
+
+# Necessary Plugins
+addons:
+  sonarcloud:
+    organization: "alu0101109251"
+  apt:
+    packages:
+      - doxygen
+      - doxygen-doc
+      - doxygen-latex
+      - doxygen-gui
+      - graphviz
+
+script:
+  # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
+  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar
+  # generate documentation using Doxyfile config
+  - doxygen Doxyfile
+
+# GitHub Pages Deployment
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  local_dir: docs/html
+  on:
+    branch: main

@@ -27,6 +27,10 @@ import java.util.regex.Pattern;
 
 import es.ull.passengers.Passenger;
 
+/**
+ * @class Flight
+ * @brief Represents a Flight
+ */
 public class Flight {
 
     private final String flightNumber;
