@@ -33,4 +33,4 @@ deploy:
   keep_history: true
   local_dir: docs/html
   on:
-    branch: main
+    branch: master

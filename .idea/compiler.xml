@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ch13-continuous" />
+        <module name="ch13-continuousV2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ch13-continuous" target="1.8" />
+      <module name="ch13-continuousV2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
