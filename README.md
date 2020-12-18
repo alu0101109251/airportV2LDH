@@ -1,31 +1,35 @@
 <!-- SHIELDS -->
 
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/dashboard?id=alu0101109251_airportLDH)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH)
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/alu0101109251/airportLDH/Build)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/alu0101109251/airportLDH)
-![GitHub language count](https://img.shields.io/github/languages/count/alu0101109251/airportLDH)
-![GitHub last commit](https://img.shields.io/github/last-commit/alu0101109251/airportLDH)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/alu0101109251/airportV2LDH/Build)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/alu0101109251/airportV2LDH)
+![GitHub language count](https://img.shields.io/github/languages/count/alu0101109251/airportV2LDH)
+![GitHub last commit](https://img.shields.io/github/last-commit/alu0101109251/airportV2LDH)
 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportLDH&metric=bugs)](https://sonarcloud.io/dashboard?id=alu0101109251_airportLDH)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportLDH&metric=code_smells)](https://sonarcloud.io/dashboard?id=alu0101109251_airportLDH)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportLDH&metric=coverage)](https://sonarcloud.io/dashboard?id=alu0101109251_airportLDH)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportLDH&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=alu0101109251_airportLDH)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportLDH&metric=ncloc)](https://sonarcloud.io/dashboard?id=alu0101109251_airportLDH)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportLDH&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=alu0101109251_airportLDH)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportLDH&metric=alert_status)](https://sonarcloud.io/dashboard?id=alu0101109251_airportLDH)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportLDH&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=alu0101109251_airportLDH)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportLDH&metric=security_rating)](https://sonarcloud.io/dashboard?id=alu0101109251_airportLDH)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportV2LDH&metric=bugs)](https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportV2LDH&metric=code_smells)](https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportV2LDH&metric=coverage)](https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportV2LDHV2&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportV2LDH&metric=ncloc)](https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportV2LDH&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportV2LDH&metric=alert_status)](https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportV2LDH&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=alu0101109251_airportV2LDH&metric=security_rating)](https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH)
 
 <!-- ABOUT -->
 ## Sobre el Proyecto
-Repositorio para Práctica 6 de Laboratorio de Desarrollo y Herramientas
+Repositorio para Práctica 7 de Laboratorio de Desarrollo y Herramientas
 
-Pruebas unitarias mediante JUnit.
+* Pruebas unitarias mediante JUnit.
+
+* Documentación con Doxygen.
+
+* Integración Continua con Travis CI.
 
 <!-- CONTACT -->
 ## Contact
 
 Javier Alonso Delgado - [alu0101109251](https://github.com/alu0101109251) - alu0101109251@ull.edu.es
 
-Project Link: [https://github.com/alu0101109251/airportLDH](https://github.com/alu0101109251/airportLDH)
+Project Link: [https://github.com/alu0101109251/airportV2LDH](https://github.com/alu0101109251/airportV2LDH)
