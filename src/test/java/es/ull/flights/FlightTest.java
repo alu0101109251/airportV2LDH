@@ -24,6 +24,7 @@ public class FlightTest {
     @DisplayName("Class Getters")
     void testFlightGetters() {
         assertAll("Verify all attributes are set correctly",
+                () -> assertThrows(RuntimeException.class, () -> new Flight("NOVALID",3), "We cannot create an invalid flight"),
                 () -> assertEquals(flightNumber, flight.getFlightNumber(), "Flight Number"),
                 () -> assertTrue(flight.addPassenger(passenger), "Adding a passenger"),
                 () -> assertEquals(1, flight.getNumberOfPassengers(), "Number of passengers")
