@@ -22,7 +22,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="classes_1_1ull_1_1passengers_1_1_passenger.html" target="_top" xlink:title="Represents a Passenger. ">
+<g id="a_node2"><a xlink:href="classes_1_1ull_1_1passengers_1_1_passenger.html" target="_top" xlink:title="This class represents a Passenger. ">
 <polygon fill="white" stroke="black" points="81.5,-127.5 81.5,-283.5 224.5,-283.5 224.5,-127.5 81.5,-127.5"/>
 <text text-anchor="middle" x="153" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">es.ull.passengers.Passenger</text>
 <polyline fill="none" stroke="black" points="81.5,-264.5 224.5,-264.5 "/>
@@ -49,7 +49,7 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="classes_1_1ull_1_1flights_1_1_flight.html" target="_top" xlink:title="Represents a Flight. ">
+<g id="a_node3"><a xlink:href="classes_1_1ull_1_1flights_1_1_flight.html" target="_top" xlink:title="Class which represents a Flight. ">
 <polygon fill="white" stroke="black" points="82,-331.5 82,-454.5 224,-454.5 224,-331.5 82,-331.5"/>
 <text text-anchor="middle" x="153" y="-442.5" font-family="Helvetica,sans-Serif" font-size="10.00">es.ull.flights.Flight</text>
 <polyline fill="none" stroke="black" points="82,-435.5 224,-435.5 "/>
