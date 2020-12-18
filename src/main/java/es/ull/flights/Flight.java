@@ -33,9 +33,9 @@ import es.ull.passengers.Passenger;
  */
 public class Flight {
 
-    private final String flightNumber;
-    private final int seats;
-    private final Set<Passenger> passengers = new HashSet<>();
+    private final String flightNumber;                              /**< String for storing flight number. */
+    private final int seats;                                        /**< Number of seats. */
+    private final Set<Passenger> passengers = new HashSet<>();      /**< Flight passengers. */
 
     private static final String flightNumberRegex = "^[A-Z]{2}\\d{3,4}$";
     private static final Pattern pattern = Pattern.compile(flightNumberRegex);

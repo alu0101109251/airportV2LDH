@@ -21,11 +21,13 @@
 ## Sobre el Proyecto
 Repositorio para Práctica 7 de Laboratorio de Desarrollo y Herramientas
 
-* Pruebas unitarias mediante JUnit.
+* Pruebas unitarias mediante JUnit
 
-* Documentación con Doxygen.
+* Análisis de Calidad del Código con SonarCloud: https://sonarcloud.io/dashboard?id=alu0101109251_airportV2LDH
 
-* Integración Continua con Travis CI.
+* Documentación con Doxygen: https://alu0101109251.github.io/airportV2LDH/
+
+* Integración Continua con Travis CI: https://travis-ci.com/github/alu0101109251/airportV2LDH
 
 <!-- CONTACT -->
 ## Contact
